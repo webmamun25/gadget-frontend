@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 
 import React from 'react'
 import styles from "./Banner.module.css";
@@ -18,14 +19,7 @@ const Banner = () => {
           <div className="max-w-xl mb-6">
             <h2 className="max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl sm:leading-none">
             Unleash the Future of Entertainment
-              {/* <br className="hidden md:block" />
-              jumps over{' '}
-              <span className="relative px-1">
-                <div className="absolute inset-x-0 bottom-0 h-3 transform -skew-x-12 bg-teal-accent-400" />
-                <span className="relative inline-block text-deep-purple-accent-400">
-                  a lazy dog
-                </span>
-              </span> */}
+           
             </h2>
             <p className="text-base text-gray-700 md:text-lg">
             Get ready to broad your horizon! Our upcoming e-commerce event is packed with exclusive deals,
