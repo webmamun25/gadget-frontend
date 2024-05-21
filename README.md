@@ -24,10 +24,11 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More about this website
 
---Tools Use-Typescript,React,Aceternity UI,Next UI,Next JS.
---You can check Details on every product.
---ALso see the trending product and flash sale product 
---IN banner there are a lot of campign show case
+-Tools Use-
+*Typescript,React,Aceternity UI,Next UI,Next JS.
+-You can check Details on every product.
+-ALso see the trending product and flash sale product 
+-IN banner there are a lot of campign show case
 
 ## Deploy on Vercel
 
