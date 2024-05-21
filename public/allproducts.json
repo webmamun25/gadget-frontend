@@ -1,0 +1,369 @@
+[
+    {
+      "image": "https://i.postimg.cc/q7ynqFnV/image1.jpg",
+      "title": "Sony WH-1000XM5 Wireless Noise-Canceling Headphones",
+      "price": 399.99,
+      "ratings": 4.8,
+      "brand": "Sony",
+      "category": "Audio",
+      "description": "Industry-leading noise cancellation, exceptional sound quality, and long battery life make these headphones ideal for immersive listening experiences.",
+      "flashsale":true
+    },
+    {
+      "image": "https://i.postimg.cc/PrV1RYhc/image-2.jpg",
+      "title": "Samsung Galaxy Z Fold4 Foldable Smartphone",
+      "price": 1799.99,
+      "ratings": 4.5,
+      "brand": "Samsung",
+      "category": "Mobile",
+      "description": "Unfold a world of possibilities with a large, unfolding display, powerful cameras, and multitasking capabilities.",
+      "flashsale":false
+    },
+    {
+      "image": "https://i.postimg.cc/QdBcGCdM/image-3.jpg",
+      "title": "Apple Watch Series 8 Smartwatch",
+      "price": 399.00,
+      "ratings": 4.7,
+      "brand": "Apple",
+      "category": "Wearables",
+      "description": "Stay connected, monitor your health, and enjoy a seamless experience with your Apple devices.",
+      "flashsale":false
+    },
+    {
+      "image": "https://i.postimg.cc/L8rLHSJ3/image-4.jpg",
+      "title": "LG OLED C2 Series Smart TV",
+      "price": 1499.99,
+      "ratings": 4.9,
+      "brand": "LG",
+      "category": "TV & Entertainment",
+      "description": "Experience stunning visuals with OLED technology, advanced smart features, and exceptional gaming performance.",
+      "flashsale":false
+    },
+    {
+      "image": "https://i.postimg.cc/ydKRZTXJ/image-5.jpg",
+      "title": "DJI Osmo Mobile 6 Gimbal Stabilizer",
+      "price": 199.00,
+      "ratings": 4.3,
+      "brand": "DJI",
+      "category": "Camera Accessories",
+      "description": "Capture smooth, professional-looking videos with this portable gimbal stabilizer for smartphones.",
+      "flashsale":true
+    },
+   
+    {
+      "image": "https://i.postimg.cc/pL0ckp1X/image-6.jpg",
+      "title": "Nest Thermostat Learning Thermostat",
+      "price": 219.99,
+      "ratings": 4.6,
+      "brand": "Google Nest",
+      "category": "Smart Home",
+      "description": "Learn your comfort preferences and automatically adjust your home's temperature for energy savings.",
+      "flashsale":false
+    },
+    {
+        "image": "https://i.postimg.cc/kXvp6jQS/image-7.jpg",
+        "title": "Microsoft Surface Laptop Studio",
+        "price": 1599.99,
+        "ratings": 4.4,
+        "brand": "Microsoft",
+        "category": "Laptops",
+        "description": "A versatile laptop with a unique hinge design that transitions between laptop and tablet mode for work and entertainment.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/3xrbgg1c/image-8.jpg",
+        "title": "Sony PlayStation 5 Digital Edition Gaming Console",
+        "price": 399.99,
+        "ratings": 4.7,
+        "brand": "Sony",
+        "category": "Gaming Consoles",
+        "description": "Experience next-generation gaming with powerful hardware, lightning-fast loading times, and immersive visuals.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/T1XthmhQ/image-9.jpg",
+        "title": "Samsung Galaxy Tab S8 Ultra Android Tablet",
+        "price": 1188.88,
+        "ratings": 4.6,
+        "brand": "Samsung",
+        "category": "Tablets",
+        "description": "A large-screen tablet with powerful performance, perfect for multitasking, productivity, and entertainment.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/jjLg1tG6/image-10.jpg",
+        "title": "Anker 535 Power Bank",
+        "price": 49.99,
+        "ratings": 4.8,
+        "brand": "Anker",
+        "category": "Mobile Accessories",
+        "description": "A high-capacity power bank to keep your devices charged on the go.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/0NFWRhsT/image-11.jpg",
+        "title": "Instant Pot Duo Crisp 11-in-1 Electric Pressure Cooker",
+        "price": 99.99,
+        "ratings": 4.9,
+        "brand": "Instant Pot",
+        "category": "Kitchen Appliances",
+        "description": "A versatile kitchen appliance that can pressure cook, slow cook, air fry, and more.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/J0cPXnk8/image-12.jpg",
+        "title": "Shark IQ Robot Self-Empty XL Robot Vacuum",
+        "price": 499.99,
+        "ratings": 4.2,
+        "brand": "Shark",
+        "category": "Home Appliances",
+        "description": "A robot vacuum that cleans your floors automatically and empties its own dustbin.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/sXWnVKfv/image-13.jpg",
+        "title": "GoPro HERO10 Black Action Camera",
+        "price": 499.00,
+        "ratings": 4.5,
+        "brand": "GoPro",
+        "category": "Cameras",
+        "description": "A rugged and waterproof action camera for capturing your adventures in stunning detail.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/FFjP8Pn6/image-14.jpg",
+        "title": "Philips Sonicare DiamondClean 9500 Electric Toothbrush",
+        "price": 199.99,
+        "ratings": 4.7,
+        "brand": "Philips",
+        "category": "Personal Care",
+        "description": "An electric toothbrush with advanced sonic technology for a superior clean.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/9FCxhG6Q/image-15.jpg",
+        "title": "Nest Hub Max Smart Display with Google Assistant",
+        "price": 229.99,
+        "ratings": 4.3,
+        "brand": "Google Nest",
+        "category": "Smart Home",
+        "description": "A smart display with Google Assistant for voice control, video calls, and entertainment.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/BQpmQj3c/image-16.jpg",
+        "title": "DJI Mavic Mini Drone",
+        "price": 499.00,
+        "ratings": 4.6,
+        "brand": "DJI",
+        "category": "Drones",
+        "description": "A lightweight and portable drone for capturing aerial photography and vide",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/mgr8cT2x/image-17.jpg",
+        "title": "Nintendo Switch OLED Gaming Console",
+        "price": 349.99,
+        "ratings": 4.8,
+        "brand": "Nintendo",
+        "category": "Gaming Consoles",
+        "description": "A handheld gaming console with a vibrant OLED display, perfect for on-the-go gaming or docked play.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/W1fSgxhd/image-18.jpg",
+        "title": "Amazon Echo Dot (5th Gen) Smart Speaker",
+        "price": 39.99,
+        "ratings": 4.4,
+        "brand": "Amazon",
+        "category": "Smart Home",
+        "description": "A compact and affordable smart speaker with Alexa for voice control, music playback, and smart home integration.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/ZqBHcjdV/image-19.jpg",
+        "title": "Samsung Galaxy Buds Pro Wireless Earbuds",
+        "price": 199.99,
+        "ratings": 4.6,
+        "brand": "Samsung",
+        "category": "Audio",
+        "description": "Wireless earbuds with active noise cancellation, clear sound quality, and a comfortable fit.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/MGCDrR0x/image-20.jpg",
+        "title": "Sony a7 IV Mirrorless Camera",
+        "price": 2499.99,
+        "ratings": 4.9,
+        "brand": "Sony",
+        "category": "Cameras",
+        "description": "A full-frame mirrorless camera with advanced features for both photography and videography enthusiasts.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/rFf927Gf/image-21.jpg",
+        "title": "Fitbit Sense 2 Smartwatch",
+        "price": 299.99,
+        "ratings": 4.3,
+        "brand": "Fitbit",
+        "category": "Wearables",
+        "description": "A smartwatch with advanced health tracking features, stress management tools, and built-in GPS.",
+        "flashsale":true
+      },
+      {
+        "image": "https://i.postimg.cc/ZnZLJSDM/image-22.jpg",
+        "title": "Apple AirPods Max Wireless Headphones",
+        "price": 549.00,
+        "ratings": 4.7,
+        "brand": "Apple",
+        "category": "Audio",
+        "description": "Over-ear headphones with active noise cancellation, spatial audio, and a premium design.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/7hVn6WFY/image-23.jpg",
+        "title": "Samsung Galaxy S23 Ultra Smartphone",
+        "price": 1188.88,
+        "ratings": 4.8,
+        "brand": "Samsung",
+        "category": "Mobile",
+        "description": "A high-end smartphone with a powerful processor, stunning camera system, and a large, immersive display.",
+        "flashsale":false
+      },
+      {
+        "image": "https://i.postimg.cc/mD7wxDV9/image-24.jpg",
+        "title": "Instant Pot Pro Plus 10-in-1 Electric Pressure Cooker",
+        "price": 129.99,
+        "ratings": 4.8,
+        "brand": "Instant Pot",
+        "category": "Kitchen Appliances",
+        "description": "A versatile electric pressure cooker with additional features like yogurt making and sterilization.",
+        "flashsale":true
+      },
+      
+    {
+      "image": "https://i.postimg.cc/tCqzf961/image-25.jpg",
+      "title": "Xbox Series S Gaming Console",
+      "price": 299.99,
+      "ratings": 4.5,
+      "brand": "Microsoft",
+      "category": "Gaming Consoles",
+     
+      "description": "A smaller, more affordable version of the Xbox Series X with next-generation gaming capabilities.",
+     
+      "flashsale":false
+  },
+    
+      {
+          "image": "https://i.postimg.cc/sf9cwMMd/image-26.jpg",
+          "title": "Ring Video Doorbell Pro 2 Security Camera",
+          "price": 249.99,
+          "ratings": 4.6,
+          "brand": "Ring",
+          "category": "Smart Home",
+          "description": "A smart doorbell with HD video, night vision, two-way talk, and motion detection for enhanced home security.",
+      "flashsale":true
+      },
+        {
+          "image": "https://i.postimg.cc/Vk5Wf4Dm/image-27.jpg",
+          "title": "Google Pixel 7 Pro Smartphone",
+          "price": 899.00,
+          "ratings": 4.7,
+          "brand": "Google",
+          "category": "Mobile",
+          "description": "A premium smartphone with exceptional camera capabilities, powered by Google's Tensor chip.",
+        "flashsale":false
+      },
+        {
+          "image": "https://i.postimg.cc/Twjr7sYq/image-28.jpg",
+          "title": "DJI Osmo Action 3 Action Camera",
+          "price": 329.00,
+          "ratings": 4.4,
+          "brand": "DJI",
+          "category": "Cameras",
+          "description": "A rugged and versatile action camera with a dual-screen design for capturing action from any angle.",
+        "flashsale":false
+      },
+        {
+          "image": "https://i.postimg.cc/W1K6hrHr/image-29.jpg",
+          "title": "Eufy RoboVac G30 Hybrid Robot Vacuum",
+          "price": 299.99,
+          "ratings": 4.6,
+          "brand": "Eufy",
+          "category": "Home Appliances",
+          "description": "A robot vacuum that combines vacuuming and mopping capabilities for a cleaner home.",
+        "flashsale":false
+      },
+        {
+          "image": "https://i.postimg.cc/QMTg5t2z/image-30.jpg",
+          "title": "Kindle Paperwhite E-reader",
+          "price": 139.99,
+          "ratings": 4.8,
+          "brand": "Amazon",
+          "category": "Tablets",
+          "description": "A lightweight and portable e-reader with a long battery life, perfect for book lovers.",
+        "flashsale":true
+      },
+       
+      {
+          "image": "https://i.postimg.cc/T1RnZcK8/image-31.jpg",
+          "title": "Bose QuietComfort 45 Wireless Headphones",
+          "price": 329.00,
+          "ratings": 4.7,
+          "brand": "Bose",
+          "category": "Audio",
+          "description": "Wireless headphones with industry-leading noise cancellation and comfortable ear cups for immersive listening.",
+       "flashsale":false
+      },
+        {
+          "image": "https://i.postimg.cc/ZRz8LmZ5/image-32.jpg",
+          "title": "Samsung Galaxy Book 2 Pro Laptop",
+          "price": 1099.99,
+          "ratings": 4.5,
+          "brand": "Samsung",
+          "category": "Laptops",
+          "description": "A thin and light laptop with a powerful processor and long battery life, ideal for work and productivity.",
+       "flashsale":true
+      },
+        {
+          "image": "https://i.postimg.cc/QC0csW7F/image-33.jpg",
+          "title": "Google Nest Wifi Mesh Router System",
+          "price": 199.99,
+          "ratings": 4.3,
+          "brand": "Google Nest",
+          "category": "Smart Home",
+          "description": "A mesh router system that blankets your entire home with strong and reliable Wi-Fi coverage.",
+          "flashsale":true 
+      },
+        {
+          "image": "https://i.postimg.cc/76N2MTmK/image-34.jpg",
+          "title": "Instant Pot Air Fryer Oven",
+          "price": 99.99,
+          "ratings": 4.6,
+          "brand": "Instant Pot",
+          "category": "Kitchen Appliances",
+          "description": "A versatile kitchen appliance that combines air frying, roasting, baking, and dehydrating functions.",
+          "flashsale":false
+      },
+        {
+          "image": "https://i.postimg.cc/CMNGb92w/image-35.jpg",
+          "title": "Oculus Quest 2 Virtual Reality Headset",
+          "price": 299.99,
+          "ratings": 4.7,
+          "brand": "Meta",
+          "category": "Gaming",
+          "description": "A standalone virtual reality headset for immersive gaming and entertainment experiences.",
+       "flashsale":true 
+      },
+        {
+          "image": "https://i.postimg.cc/BQnxpMWH/image-36.jpg",
+          "title": "Samsung Galaxy Watch 5 Pro Smartwatch",
+          "price": 449.99,
+          "ratings": 4.8,
+          "brand": "Samsung",
+          "description":"The Galaxy Watch5 Pro is the perfect companion for adventurers and fitness enthusiasts alike. Its rugged construction and long-lasting battery life will keep you going on your toughest journeys.",
+      "flashsale":true
+      }
+      
+
+  ]

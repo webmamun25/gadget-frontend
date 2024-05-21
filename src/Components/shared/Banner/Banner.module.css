@@ -1,0 +1,13 @@
+.banner_back{
+    background-image: linear-gradient(#DFF1FB, #78C8ED);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center;
+   
+    object-fit: fill;
+   
+   
+    
+    
+}
